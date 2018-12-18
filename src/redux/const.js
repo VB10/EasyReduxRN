@@ -1,3 +1,3 @@
 
 
-export const selectData = "API_GET_DATA";
+export const selectDatas = "API_GET_DATA";

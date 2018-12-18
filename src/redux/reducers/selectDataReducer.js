@@ -1,9 +1,9 @@
-import { selectData } from "../const";
+import { selectDatas } from "../const";
 
-export default (state = null,action) => {
-  
+export default (state = null, action) => {
+    
     switch (action.type) {
-        case selectData:            
+        case selectDatas:            
             return action.payload    
         default:
             return state;

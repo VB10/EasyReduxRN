@@ -1,10 +1,10 @@
-
-import {selectData} from '../const'
+import {
+    selectDatas
+} from '../const'
 export const selectData = (dataID) => {
-
     //api call
     return {
-        type: selectData,
+        type: selectDatas,
         payload: dataID
     }
 
