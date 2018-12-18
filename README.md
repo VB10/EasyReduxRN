@@ -2,7 +2,7 @@
 **The purpose  repo simple learn react redux**
 
 - [x]  React redux init
-- [ ] Redux return component
+- [x] Redux return component
   
   
   
